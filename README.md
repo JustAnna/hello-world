@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First time repo in github
+This is Anna. I am a computer professional and a mom of two wonderful kids.
